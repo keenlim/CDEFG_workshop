@@ -17,7 +17,7 @@ This workshop will focus on leveraging LangGraph to create a basic chatbot:
 ## Setup and Installation
 - Clone the repository:
 ```
-git clone
+git clone https://github.com/keenlim/CDEFG_workshop.git
 cd CDEFG_codebase
 ```
 
@@ -33,6 +33,3 @@ Create the .env file and populate the keys shown in .env.sample
 
 - Access the .ipynb notebook
 
-
-
-# CDEFG_workshop
