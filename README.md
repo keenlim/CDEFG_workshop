@@ -25,11 +25,28 @@ cd CDEFG_codebase
 ```
 pip install virtualenv
 python3.12 -m venv .venv
+```
+
+- Activate virtual environment and pip install all necessary requirements
+#### For Mac
+```
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+#### For Windows
+```
+.venv/Scripts/Activate.ps1 //In Powershell
 pip install -r requirements.txt
 ```
 
 - Setting up API Keys
 Create the .env file and populate the keys shown in .env.sample
 
-- Access the .ipynb notebook
+- Access the .ipynb notebook to try to run the notebook
 
+## References
+- [LangGraph](https://langchain-ai.github.io/langgraph/)
+- [AgenticRAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/)
+- [Intro of AI Agent, & AI agent projects summary](https://medium.com/@henryhengluo/intro-of-ai-agent-ai-agent-projects-summary-52f4a364ab86)
+- [Understanding Agentic Concepts in LLM Workflows](https://medium.com/@pankaj_pandey/understanding-agentic-concepts-in-llm-workflows-fc8115504c06)
