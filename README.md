@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 #### For Windows
 ```
-.venv/Scripts/Activate.ps1 //In Powershell
+.venv\Scripts\activate 
 pip install -r requirements.txt
 ```
 

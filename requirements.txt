@@ -6,3 +6,4 @@ langchain-core
 python-dotenv
 langgraph
 pydantic
+faiss-cpu
