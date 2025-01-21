@@ -21,6 +21,9 @@ git clone https://github.com/keenlim/CDEFG_workshop.git
 cd CDEFG_codebase
 ```
 
+- Download the entire repository from the CDEFG Teams channel folder as a Zip file.
+- Unzip the file and open the file with VSCode
+
 - To start, you need to first create a virtual environment and install all dependencies and all required libraries.
 ```
 pip install virtualenv
