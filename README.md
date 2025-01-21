@@ -43,12 +43,12 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 
-- Setting up API Keys
-Create the .env file and populate the keys shown in .env.sample
+- Setting up API Keys (If API Keys are not pre-populated in `.env` file)
+Create the .env file and populate the keys shown in .env.sample 
 
 - Access the .ipynb notebook to try to run the notebook
 
-## References
+## Further Readings and References
 - [LangGraph](https://langchain-ai.github.io/langgraph/)
 - [AgenticRAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/)
 - [Intro of AI Agent, & AI agent projects summary](https://medium.com/@henryhengluo/intro-of-ai-agent-ai-agent-projects-summary-52f4a364ab86)
